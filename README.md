@@ -1,2 +1,3 @@
 # TIP_CALCULATOR.
-Code in C#
+Project on C#
+Grapecity Project.
